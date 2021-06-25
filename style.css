@@ -64,3 +64,9 @@ body{
 	background-color: #eb1761;
 }
 
+@media(min-width: 992px){
+	.carousel-item img{
+	display: none;
+}
+}
+
